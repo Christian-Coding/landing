@@ -1,0 +1,40 @@
+.steps-banner {
+  height: 500px;
+  width: 100%;
+  padding: 24px;
+  background-color: white;
+  display: flex;
+  justify-content: space-evenly;
+  margin: 0 auto
+}
+
+.steps-banner h2 {
+  color: white;
+  text-align: center;
+}
+
+.container {
+  width: 900px;
+  height: 400px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.card {
+  width: 240px;
+  padding: 20px;
+  height: 310px;
+  background-color: white;
+  border-radius: 4px;
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+  margin: 50px;
+  text-align: center
+}
+
+.card p {
+  color: grey;
+}
+
+.card img {
+  width: 180px;
+}
